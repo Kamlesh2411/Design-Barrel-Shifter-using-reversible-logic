@@ -1,5 +1,5 @@
 # Design-Barrel-Shifter-using-reversible-logic
-This is my Course Project of Digital Design Subject 
+This is my Course Project of Digital Design Subject, 
 Here in this Project i have used Feyman & R-mux reversible Gate's and write a code for reversible Barrel Shifter in Verilog Language.
 
 This project highlights the implementation of an 8-bit Barrel Shifter using reversible logic, showcasing its efficiency compared to traditional designs. 
